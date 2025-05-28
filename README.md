@@ -156,3 +156,5 @@ Ce projet montre comment :
 - Organiser une logique métier claire
 - Gérer les erreurs utilisateur
 - Utiliser des classes pour structurer proprement le code
+
+https://github.com/Ramananolo/Coffee-Machine-Project/blob/main/README.md
